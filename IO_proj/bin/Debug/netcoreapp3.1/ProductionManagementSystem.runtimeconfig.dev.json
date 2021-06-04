@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\reosk\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\reosk\\.nuget\\packages"
+    ]
+  }
+}
